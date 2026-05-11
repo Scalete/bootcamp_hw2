@@ -1,0 +1,46 @@
+{
+  "root": {
+    "movies": {
+      "type": "folder",
+      "children": {
+        "Avengers": {
+          "type": "folder",
+          "children": {
+            "Infinity War.mp4": { "type": "file" },
+            "Endgame.mp4": { "type": "file" }
+          }
+        },
+        "Spider-Man": {
+          "type": "folder",
+          "children": {
+            "Homecoming.mp4": { "type": "file" },
+            "No Way Home.mp4": { "type": "file" }
+          }
+        },
+        "Iron Man.mp4": { "type": "file" },
+        "Doctor Strange.mp4": { "type": "file" }
+      }
+    },
+    "comics": {
+      "type": "folder",
+      "children": {
+        "X-Men": {
+          "type": "folder",
+          "children": {
+            "Dark Phoenix Saga.pdf": { "type": "file" },
+            "Days of Future Past.pdf": { "type": "file" }
+          }
+        },
+        "Fantastic Four": {
+          "type": "folder",
+          "children": {
+            "Galactus Trilogy.pdf": { "type": "file" },
+            "The Coming of Galactus.pdf": { "type": "file" }
+          }
+        },
+        "Captain America.pdf": { "type": "file" },
+        "Black Panther.pdf": { "type": "file" }
+      }
+    }
+  }
+}
